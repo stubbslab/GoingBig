@@ -1,4 +1,6 @@
-# Going Big: A Guide to Large-Scale Scientific Projects
+# Going Big: A Scientist's Guide to Large Projects and Collaborations
+
+** ISBN-23 978-0262547963 **
 
 **Author:** Christopher Stubbs
 
