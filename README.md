@@ -35,3 +35,4 @@ This work is made freely available for educational and research purposes.
 
 Christopher Stubbs
 Harvard University
+stubbs@g.harvard.edu
