@@ -23,7 +23,7 @@ The full book is available as a PDF: [GoingBigBook.pdf](GoingBigBook.pdf)
 
 If you find this book useful, please cite it as:
 
-> Stubbs, C. (2025). *Going Big: A Guide to Large-Scale Scientific Projects*.
+> Stubbs, C. (2024). *Going Big: A Scientist's Guide to Large Projects and Collaborations*, MIT Press.
 
 ## License
 
